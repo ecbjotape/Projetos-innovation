@@ -1,2 +1,2 @@
 # Projetos-innovation
-Neste projeto estou tentando recriar a interface do instagram.
+Neste repositório estarei atualizando todos os meus projetos estudados na Digital Innovation One.
